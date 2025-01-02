@@ -44,5 +44,4 @@ This project replicates most of the functionalities of the original Netflix appl
 1. Clone the repository:
    ```bash
    git clone https://github.com/rahul-surendran02/Netflix-Clone.git
-   cd Netflix-Clone-Django
 
