@@ -1,6 +1,8 @@
 # Netflix Clone (Django)
 
-A fully responsive Netflix clone built using Django, HTML, CSS, and JavaScript. This project replicates most of the functionalities of the original Netflix application, including:
+A fully responsive Netflix clone built using Django, HTML, CSS, and JavaScript. 
+
+This project replicates most of the functionalities of the original Netflix application, including:
 
 - User authentication (signup, login, logout)
 - Profile creation and management
